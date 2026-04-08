@@ -1,0 +1,11 @@
+ <STYLE>
+        nav{background-color: rgb(121, 145, 78);}
+        header{background-color: rgb(169, 169, 106);}
+        section{background-color: bisque}
+        footer{background-color: rgb(48, 138, 37);}
+        article{background-color: burlywood;}
+        a{color:rgb(42, 42, 42)}
+        h1{color:white;}
+        *{font-family: 'courier new', 'Courier New', Courier, monospace; color:blue;}
+         
+    </STYLE>
